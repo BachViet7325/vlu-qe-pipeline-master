@@ -1,3 +1,4 @@
+// Updated login function for feature branch
 function login(username, password) {
     if (username === "locked") {
         return false;
